@@ -1,2 +1,3 @@
 # PortinariPhotos
-Photos of the Portinari Project
+
+Building photos of the Portinari Project
